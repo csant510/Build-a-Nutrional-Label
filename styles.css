@@ -51,6 +51,9 @@ P {
     font-size: .85rem;
 }
 
+ .medium {
+    height: 5px;
+ }
 .calories-info {
     display: flex;
     justify-content: space-between;
@@ -73,6 +76,6 @@ P {
     font-weight: 700;
  }
 
- .medium {
-    height: 5px;
+ .right {
+    justify-content: flex-end;
  }
